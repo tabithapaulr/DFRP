@@ -14,5 +14,3 @@ Frontend: JSP (JavaServer Pages), Highcharts for data visualization
 Backend: Servlets
 Database: MySQL
 Web Technologies: AJAX for asynchronous communication
-
-
