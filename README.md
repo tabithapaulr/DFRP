@@ -15,10 +15,4 @@ Backend: Servlets
 Database: MySQL
 Web Technologies: AJAX for asynchronous communication
 
-Predictive Modeling:
-The predictive model utilizes datasets from 2009 to 2017 taken from Open Government Data Platform India (data.gov.in) and stored in the MySQL database.
-Linear regression models the relationship between predictor variables (data from 2009-2017) and the response variable (result of 2018).
 
-Algorithms Used:
-Linear Regression: Used to model the relationship between independent variables (data from 2009-2017) and the dependent variable (road accidents in 2018).
-K-Means Clustering: Applied for classification and grouping of data.
